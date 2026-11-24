@@ -1,0 +1,10 @@
+{
+  "name": "frogFelicityFlounders-Editor",
+  "references": [
+    "frogFelicityFlounders"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}
